@@ -27,7 +27,7 @@ ft_printf is a project that aims to mimic the behavior of the standard C library
 
 3. The function behaves similarly to printf and outputs the formatted string to the standard output.
 
-## Supported Format Specifiers
+## 📄 Supported Format Specifiers
 
 | Operation | Explanation                                |
 |-----------|---------------------------------------------|
